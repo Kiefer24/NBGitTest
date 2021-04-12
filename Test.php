@@ -6,4 +6,8 @@ class Test {
         
     }
     
+    public function sampleFunction() {
+        
+    }
+    
 }
