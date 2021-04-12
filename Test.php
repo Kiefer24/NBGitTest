@@ -10,4 +10,8 @@ class Test {
         
     }
     
+    public function otherFunction() {
+        
+    }
+    
 }
