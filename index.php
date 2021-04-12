@@ -14,6 +14,8 @@ and open the template in the editor.
             echo 'Git TEST page';
             
             echo 'Git TEST nový řádek';
+            
+            echo 'Git další řádek';
         ?>
     </body>
 </html>
